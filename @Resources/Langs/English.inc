@@ -32,5 +32,9 @@
     november=November
     december=December
     ;
-    searchboxdefault=Type here to search everywhere
     loading=N/A
+    s_bat=Battery level
+    s_average_cpu=Average Central Processing Unit usage
+    s_average_ram=Average Random Access Memory usage
+    s_disk_time=Disk active time
+    s_cpu_max_temp=Temperature of the hottest CPU
