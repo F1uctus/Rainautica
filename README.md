@@ -20,9 +20,9 @@ Common settings, like 'Suite language', or 'Suite scale' are located in `@Resour
 Most skins are empty, but suite was just 2 days old, forgive me ;)
 
 Day version:
-![](https://github.com/F1uctus/Rainautica/blob/master/%40Screenshots/alpha-2-day.png)
+![](https://github.com/F1uctus/Rainautica/blob/master/%40Screenshots/alpha-3-day.png)
 
 Night version:
-![](https://github.com/F1uctus/Rainautica/blob/master/%40Screenshots/alpha-2-night.png)
+![](https://github.com/F1uctus/Rainautica/blob/master/%40Screenshots/alpha-3-night.png)
 
 </p>
